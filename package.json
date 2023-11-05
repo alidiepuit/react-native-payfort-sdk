@@ -31,8 +31,8 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "18.2.0",
-    "react-native": "0.72.5"
+    "react": "^17.0.2",
+    "react-native": "^0.67.2"
   },
   "bugs": {
     "url": "https://github.com/logisticinfotech/react-native-payfort-sdk/issues"
